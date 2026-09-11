@@ -1,4 +1,4 @@
-![프로젝트 소개](https://github.com/user-attachments/assets/5d30aa30-138b-43dd-9962-5cc39bf79a6b)
+<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/7b211f3b-40c5-4655-9531-ab3edac01cef" />
 
 ## 신한은행 금융인증서
 ```
