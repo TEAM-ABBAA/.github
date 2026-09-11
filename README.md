@@ -96,7 +96,7 @@ MFA 정책
 | :---: | :---: | :---: | :---: | :---: |
 | <img width="120px" src="https://avatars.githubusercontent.com/u/111678149?v=4" /> | <img width="120px" src="https://avatars.githubusercontent.com/u/308309430?v=4" /> | <img width="120px" src="" /> | <img width="120px" src="https://avatars.githubusercontent.com/u/327895597?v=4" /> | <img width="120px" src="https://avatars.githubusercontent.com/u/308302765?v=4" /> |
 | 노정희 | 박신규 | 유수연 | 원태현 | 피준원 |
-| [@and-noh](https://github.com/and-noh) | [@Sin919](https://github.com/Sin919) | [@] | [@home9534](https://github.com/home9534) | [@](https://github.com/pijunwon-cell) |
+| [@and-noh](https://github.com/and-noh) | [@Sin919](https://github.com/Sin919) | [@] | [@home9534](https://github.com/home9534) | [@pijunwon-cell](https://github.com/pijunwon-cell) |
 | 프로젝트 관리<br> 문서 검수<br> 인프라 구성도<br> PPT 디자인 | 서비스 시퀀스<br> OWASP 분석 | 자료 조사<br> 용어 정리 | OWASP 분석<br> 발표 | 서버 구성<br> 네트워크 구성 |
 > [!NOTE]
 > ABBAA는 팀원들의 혈액형을 조합하여 '아빠'라는 이름을 유머러스하게 표현한 팀명입니다.  
