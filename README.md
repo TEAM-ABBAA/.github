@@ -6,7 +6,7 @@
 📆 2026/06/10/수 ~ 2026/07/01/수
 🏆 1차 프로젝트 2등상
 ```
-<img width="1080" height="1600" alt="image" src="https://github.com/user-attachments/assets/d9fe3d97-4e3e-46a8-afaf-3634f1611fd9" />
+<img width="1080" height="1450" alt="image" src="https://github.com/user-attachments/assets/d9fe3d97-4e3e-46a8-afaf-3634f1611fd9" />
 
 ---
 
