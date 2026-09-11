@@ -1,6 +1,6 @@
 ## 서버 구성도
 
-<img width="1600" height="1880" alt="image" src="https://github.com/user-attachments/assets/93ed263e-7cd1-423a-8912-03bf94ef600a" />
+<img width="1600" height="1820" alt="image" src="https://github.com/user-attachments/assets/93ed263e-7cd1-423a-8912-03bf94ef600a" />
 
 
 ---
