@@ -1,4 +1,4 @@
-![프로젝트 소개](https://github.com/user-attachments/assets/f8609e4a-2e2c-42fb-b8cb-bade63d15ad4)
+![프로젝트 소개](https://github.com/user-attachments/assets/5d30aa30-138b-43dd-9962-5cc39bf79a6b)
 
 ## 신한은행 금융인증서
 ```
@@ -6,7 +6,7 @@
 📆 2026/06/10/수 ~ 2026/07/01/수
 🏆 1차 프로젝트 2등상
 ```
-<img width="1080" height="1380" alt="image" src="https://github.com/user-attachments/assets/d9fe3d97-4e3e-46a8-afaf-3634f1611fd9" />
+<img width="1913" height="1078" alt="image" src="https://github.com/user-attachments/assets/faecb1dc-96e3-4ce4-af40-88da53a86e83" />
 
 ---
 
